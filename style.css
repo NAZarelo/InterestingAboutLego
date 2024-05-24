@@ -47,6 +47,10 @@ footer a {
     color: #ffff00;
 }
 
+footer {
+    color: #ffff00;
+}
+
 main table {
     border:2px solid #ff0000;
     border-collapse:collapse;
