@@ -27,7 +27,7 @@ header {
 h1 {
     text-align: center;
     color: #ffff00;
-    font-size: 100;
+    font-size: 70;
 }
 
 .second_title {
@@ -66,4 +66,13 @@ main td {
     border-radius: 5px;
     margin: 20px 20px;
     padding: 5px 5px;
+}
+
+h2 {
+    color:#eb0000;
+}
+
+.support_of_Ukraine {
+    border-top: 10px solid #eb0000;
+    border-bottom: 10px solid #eb0000;
 }
